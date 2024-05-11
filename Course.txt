@@ -1,0 +1,20 @@
+MT-117, Applied Calculus, 3
+SS-004, English composition And Comprehension, 3
+CS-207, Human Computer Interaction, 3
+CS-549, Fundamental Of Computer Vision, 3
+SS-207, Technical And Business Writing, 4
+CS-403, Software Testing, 3
+EE-301, Computer Architecture, 4
+CS-105, Discrete Structures, 3
+SE-201, Software Requirement Engineering, 3
+CS-304, Software Design And Analysis, 4
+EE-105, Digital Logic Design, 3
+CS-205, Database Systems, 4
+CS-401, Professional Practices, 3
+MT-106, Differential Equations, 3
+MT-209, Probability And Statistics, 3
+CS-302, Information Security, 4
+AF-203, Finance And Accounting, 3
+CS-508, Interaction Design, 3
+SS-103, Pakistan Studies, 3
+CS-405, Bioinformatics, 4

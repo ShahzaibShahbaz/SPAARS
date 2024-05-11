@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPAARS", "SPAARS\SPAARS.vcxproj", "{715D223C-BDB6-4A77-BB92-E5EF0100D56F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8A9619E5-89BA-4786-8566-C79F0AA95F29}"
+	ProjectSection(SolutionItems) = preProject
+		Course.txt = Course.txt
+		Personal.txt = Personal.txt
+		Results.txt = Results.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
